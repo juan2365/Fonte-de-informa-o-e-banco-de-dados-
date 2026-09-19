@@ -10,5 +10,3 @@ Foram coletados dados relativos a empresas multimodais presentes no site da ANTT
 Análises feitas:
 1) Quantas OTM'S existem em cada
    <img width="650" height="441" alt="image" src="https://github.com/user-attachments/assets/cd0ff5c2-f46e-4571-a2a8-351164ce4870" />
--
--
