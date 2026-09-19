@@ -1,6 +1,6 @@
 # Fonte-de-informa-o-e-banco-de-dados-
 Atividades desenvolvida do 1 Semestre na faculdade Fatec SJC
--
+-https://github.com/juan2365/Fonte-de-informa-o-e-banco-de-dados-/blob/main/planilha%20juan.pbix
 -
 ## Analises de dados abertos por meio de dashbord
 -
